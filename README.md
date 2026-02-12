@@ -1,4 +1,4 @@
-# 🧠 Gen Z Consumer Insights — Primary Research Case Study (Korn Ferry Challenge)
+# 🧠 Gen Z Consumer Insights — Korn Ferry Challenge
 
 This repository showcases a **primary research** project my team and I conducted for the **Korn Ferry Consulting Challenge**, focused on understanding **Gen Z** attitudes, behaviors, and brand perceptions, and translating those findings into **actionable strategy**. Our work was **selected as a finalist** and presented to judges/executives at Korn Ferry.  
 
